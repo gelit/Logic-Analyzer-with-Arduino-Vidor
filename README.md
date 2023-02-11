@@ -1,1 +1,1 @@
-# Logic-Analyzer-with-Arduino-Vidor
+# Logic Analyzer with Arduino Vidor
